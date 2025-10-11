@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/QuaternionRotationDirect/261991848_522113506_778949858.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/QuaternionRotationDirect/4092177041_4205520711_363105407.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/QuaternionRotationDirect/4092177041_4168353588_1187563505.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/QuaternionRotationDirect/4092177041_3319298090_1187563505.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/QuaternionRotationDirect/4092177041_1523640694_2060155214.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/QuaternionRotationDirect/4092177041_3494816192_2748592789.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/QuaternionRotationDirect/4092177041_2151633274_2912256584.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/QuaternionRotationDirect/4092177041_2686050759_728190981.mp4'

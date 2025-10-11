@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/2303998553_4253771973_1634927239.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_4205520711_756584428.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_2322484869_1904606214.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_4205520711_1898074132.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_1900924610_687822403.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_1659422370_4182152877.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_3037281262_3490421348.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_2800357674_2365069439.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_5965585_633883110.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_3828971064_2514258561.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_807247560_3024664734.mp4'
+file 'file:C:/Users/dapri/OneDrive/Documents/GitHub/nonlinear-dynamics/Fall Term/media/videos/Fall Term/480p15/partial_movie_files/ParallelRotation/1847624830_4273788168_3886285126.mp4'
